@@ -22,7 +22,7 @@ Currently I live in **Brazil** :brazil: and I'm finishing my bachelor degree in 
 
 ### My GitHub stats :game_die:
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=grun00&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats?count_private=true&show_icons=true)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=grun00&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages I speak
 :us:
