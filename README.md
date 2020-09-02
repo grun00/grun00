@@ -2,9 +2,9 @@
 
 My name is **Lucas Grünheidt**, but most of my friends call me **grun**. I work as a **Ruby on Rails** back-end **developer** [@autoseg](https://www.autoseg.com).
 
-Currently I live in **Brazil** :br: and I'm finishing my bachelor degree in Systems Analysis and Development at [Fatec São Paulo](https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_State_Technological_College)
+Currently I live in **Brazil** :brazil: and I'm finishing my bachelor degree in Systems Analysis and Development at [Fatec São Paulo](https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_State_Technological_College)
 
-I have a dual citzenship (:de: / :br:) and I plan on moving to Germany for a Masters program (after 2021)
+I have a dual citzenship (:de: / :brazil:) and I plan on moving to Germany for a Masters program (after 2021)
 
 ### Things I work with :factory:
 <img height="32" width="32" fill='red' src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rubyonrails.svg"/> <img height="32" width="32" src="./icons/ruby.svg"/> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg"/>
@@ -29,7 +29,7 @@ I have a dual citzenship (:de: / :br:) and I plan on moving to Germany for a Mas
 
 ### Languages I speak
 :en:
-:br:
+:brazil:
 :de:
 
 ### You're visitor number:
