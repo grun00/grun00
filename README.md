@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Lucas Grünheidt, but most of my friends call me grun. I work as a ![**Ruby on Rails**](https://simpleicons.org/icons/rubyonrails.svg){width: 32px; height: 32px} backend developer @autoseg.
+My name is Lucas Grünheidt, but most of my friends call me grun. I work as a **Ruby on Rails**<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rubyonrails.svg" /> backend developer @autoseg.
 
 ### My GitHub stats :game_die:
 
