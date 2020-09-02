@@ -7,16 +7,12 @@ Currently I live in **Brazil** :brazil: and I'm finishing my bachelor degree in 
 I have a dual citzenship (:de: / :brazil:) and I plan on moving to Germany for a Masters program (after 2021)
 
 ### Things I work with :factory:
-<img height="36" width="36" src="./icons/ruby.svg"/> <img height="36" width="36" fill='red' src="./icons/rubyonrails.svg"/> <img height="36" width="36" src="./icons/html5.svg"/>
-
-<img height="36" width="36" src="./icons/javascript.svg"/> <img height="36" width="36" src="./icons/react.svg"/>
+<img height="36" width="36" src="./icons/ruby.svg"/> <img height="36" width="36" fill='red' src="./icons/rubyonrails.svg"/> <img height="36" width="36" src="./icons/html5.svg"/> <img height="36" width="36" src="./icons/javascript.svg"/> <img height="36" width="36" src="./icons/react.svg"/>
 
 
 ### Things that help me work :trolleybus:
 
-<img height="36" width="36" src="./icons/neovim.svg"/> <img height="36" width="36" src="./icons/linux.svg"/> <img height="36" width="36" src="./icons/manjaro.svg"/>
-
-<img height="36" width="36" src="./icons/google.svg"/> <img height="36" width="36" src="./icons/firefoxbrowser.svg"/>
+<img height="36" width="36" src="./icons/neovim.svg"/> <img height="36" width="36" src="./icons/linux.svg"/> <img height="36" width="36" src="./icons/manjaro.svg"/> <img height="36" width="36" src="./icons/google.svg"/> <img height="36" width="36" src="./icons/firefoxbrowser.svg"/>
 
 ### Things I'm learning :thought_balloon:
 
