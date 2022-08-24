@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is **Lucas Grünheidt**, but most of my friends call me **grun**. I work as a **Ruby on Rails** back-end **developer** [@autoseg](https://www.autoseg.com).
+My name is **Luana Grünheidt**, but most of my friends call me **grun**. I work as a **Ruby on Rails** and **Golang** back-end **developer**. I also make do some webscraping with python from time to time. 
 
 Currently I live in **Brazil** :brazil: and I'm finishing my bachelor degree in Systems Analysis and Development at [Fatec São Paulo](https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_State_Technological_College)
 
