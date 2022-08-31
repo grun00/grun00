@@ -4,9 +4,6 @@ My name is **Luana Grünheidt**, but most of my friends call me **grun**. I work
 
 Currently I live in **Brazil** :brazil: and I'm finishing my bachelor degree in Systems Analysis and Development at [Fatec São Paulo](https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_State_Technological_College)
 
-<a href="https://www.linkedin.com/in/lucasgrunheidt/" target="_blank">
-  <img height="36" width="36" src="https://raw.githubusercontent.com/grun00/grun00/master/icons/linkedin.svg"/>
-</a>
 
 ### Things I work with :factory:
 <a href='https://www.ruby-lang.org/en/' target="_blank"><img height="36" width="36" src="https://raw.githubusercontent.com/grun00/grun00/master/icons/ruby.svg"/></a> <a href='https://rubyonrails.org/' target='_blank'><img height="36" width="36" fill='red' src="https://raw.githubusercontent.com/grun00/grun00/master/icons/rubyonrails.svg"/></a> <a href='https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5' target='_blank'><img height="36" width="36" src="https://raw.githubusercontent.com/grun00/grun00/master/icons/html5.svg"/></a> <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript' target='_blank'><img height="36" width="36" src="https://raw.githubusercontent.com/grun00/grun00/master/icons/javascript.svg"/></a> <a href='https://reactjs.org/' target='_blank'><img height="36" width="36" src="https://raw.githubusercontent.com/grun00/grun00/master/icons/react.svg"/></a>
