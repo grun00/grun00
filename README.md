@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-My name is **Luana Grünheidt**, but most of my friends call me **Grun**. I work mostly as a **Ruby on Rails** back-end **developer**. I also make do some webscraping with python from time to time. 
+My name is **Luana Grünheidt**, but most of my friends call me **Grun**. I work mostly as a **Ruby on Rails** back-end **developer**. I also work with python, typescript and other languages from time to time. 
 
 Currently I live in **Brazil** :brazil: and I have a bachelor degree in Systems Analysis and Development at [Fatec São Paulo](https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_State_Technological_College)
+
+
 
 
 ### Things I work with :factory:
