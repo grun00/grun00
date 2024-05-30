@@ -4,6 +4,7 @@ My name is **Luana Grünheidt**, but most of my friends call me **Grun**. I work
 
 Currently I live in **Brazil** :brazil: and I have a bachelor degree in Systems Analysis and Development at [Fatec São Paulo](https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_State_Technological_College)
 
+<a href='https://www.linkedin.com/in/luanagrunheidt/' target='_blank'><img height="36" width="36" src="https://raw.githubusercontent.com/grun00/grun00/master/icons/linkedin.svg"/></a>
 
 
 
